@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{1B4B8314-4F74-463E-B343-49E080DF9608}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPagesMovie/Pages/Movies/Create.cshtml.cs">
+    <Files>
+      <File FileName="RazorPagesMovie/Models/Movie.cs" Line="12" Column="17" />
+      <File FileName="RazorPagesMovie/Program.cs" Line="4" Column="1" />
+      <File FileName="RazorPagesMovie/appsettings.json" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Migrations/20220728010739_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Data/RazorPagesMovieContext.cs" Line="1" Column="1" />
+      <File FileName="RazorPagesMovie/Pages/Movies/Create.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True">
+                  <Node name="Create.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
